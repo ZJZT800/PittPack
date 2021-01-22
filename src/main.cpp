@@ -64,6 +64,8 @@ int main( int argcs, char *pArgs[] )
     int p0 = sqrt( com_size );
     int p1 = p0;
 
+	;
+
     cout << " p0 " << p0 << " " << p1 << endl;
 
     int Nx = NXCHUNK * p0;
